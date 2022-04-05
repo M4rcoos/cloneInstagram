@@ -3,25 +3,15 @@
 
 ## Sobre o projeto
 
-A ideia do projeto é criar um aplicativo semelhante ao do Instagram, usando a stack Node.js, ReactJS e React Native.
+A ideia do projeto é criar um aplicativo semelhante ao do Instagram, usando a stack Node.js e ReactJS .
 
 ## Funcionalidades
 
 - Criação de Posts
 - Listar todos os Posts
 - Posts podem receber Likes
-- Posts e Likes atualizam em tempo real
 
 <p align="center">
-  <img src="./.github/projeto.png" />
+  <img src="./frontend/src/assets/tela-aplicacao-3.jpg/">
 </p>
-
-## Backend
-
-Para executar o backend siga as instruções do arquivo [README.md](https://github.com/DouglasVarollo/OmniStack7/blob/master/backend/README.md) que está na pasta backend.
-
-
-## Frontend
-
-Para executar o frontend siga as instruções do arquivo [README.md](https://github.com/DouglasVarollo/OmniStack7/blob/master/frontend/README.md) que está na pasta frontend.
 
